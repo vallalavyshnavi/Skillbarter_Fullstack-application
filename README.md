@@ -183,6 +183,9 @@ Planning Activities
 * Industry and NGO integration
 
 ---
+ Live Demo
+
+ https://skillbarter-lae8.vercel.app
 
  Author
 
